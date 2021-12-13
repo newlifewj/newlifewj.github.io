@@ -1,5 +1,18 @@
 {
-    "version": "0.0.0",
-    "manifest_version": 0,
-    "name": "..."
+    "name": "Ontario Digital ID",
+    "short_name": "ODI",
+    "background_color": "White",
+    "description": "Ontario digital wallet with default digital ID",
+    "start_url": ".",
+    "icons": [
+        {
+            "src": "images/ontario-icon-black.svg",
+            "sizes": "any"
+        },
+        {
+            "src": "images/ontario-icon-white.svg",
+            "sizes": "any"
+        }
+    ],
+    "display": "fullscreen"
 }
